@@ -7,3 +7,4 @@ Bayesian inference utilises inductive learning through Bayes rule to update our 
 
 P(H|E) = P(E|H)*P(H)/P(E)
 
+A "conjugate prior" refers to a prior distribution which wehn combined with a specific likelihood function results in a posterior distribution that belongs to the same family of distribution as the prior. 
